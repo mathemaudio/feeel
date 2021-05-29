@@ -1,6 +1,6 @@
 {
   "name": "feeel",
-  "version": "0.0.1",
+  "version": "0.0.11",
   "description": "TypeScript HTML frontend framework",
   "main": "index.js",
   "scripts": {
